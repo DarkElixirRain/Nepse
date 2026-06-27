@@ -1,0 +1,6 @@
+{
+  "name": "NEPSE AI Predictor",
+  "description": "An AI-powered Nepal Stock Market Prediction Platform providing live simulated stock data, ML price forecasts, technical/fundamental analysis, portfolio tracking, and an interactive finance chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
